@@ -11,6 +11,8 @@
 		258628D82B5E7E4700F6269E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258628D72B5E7E4700F6269E /* ContentView.swift */; };
 		258628DA2B5E7E4B00F6269E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 258628D92B5E7E4B00F6269E /* Assets.xcassets */; };
 		258628DD2B5E7E4B00F6269E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 258628DC2B5E7E4B00F6269E /* Preview Assets.xcassets */; };
+		258628E42B5E7E6400F6269E /* Vista1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258628E32B5E7E6400F6269E /* Vista1.swift */; };
+		258628E62B5E7E7600F6269E /* Vista2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 258628E52B5E7E7600F6269E /* Vista2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		258628D72B5E7E4700F6269E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		258628D92B5E7E4B00F6269E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		258628DC2B5E7E4B00F6269E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		258628E32B5E7E6400F6269E /* Vista1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vista1.swift; sourceTree = "<group>"; };
+		258628E52B5E7E7600F6269E /* Vista2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vista2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				258628D72B5E7E4700F6269E /* ContentView.swift */,
 				258628D92B5E7E4B00F6269E /* Assets.xcassets */,
 				258628DB2B5E7E4B00F6269E /* Preview Content */,
+				258628E32B5E7E6400F6269E /* Vista1.swift */,
+				258628E52B5E7E7600F6269E /* Vista2.swift */,
 			);
 			path = probaGit2;
 			sourceTree = "<group>";
@@ -137,8 +143,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				258628E62B5E7E7600F6269E /* Vista2.swift in Sources */,
 				258628D82B5E7E4700F6269E /* ContentView.swift in Sources */,
 				258628D62B5E7E4700F6269E /* probaGit2App.swift in Sources */,
+				258628E42B5E7E6400F6269E /* Vista1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
